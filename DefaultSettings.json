@@ -1,0 +1,40 @@
+{
+    "username": "",
+    "password": "",
+    "ui": {
+        "colours": [
+            "#aa0000",
+            "#ff6600",
+            "#adad00",
+            "#009900",
+            "#00adad",
+            "#0000aa",
+            "#8800ff"
+        ],
+        "theme": [
+            "Material",
+            "Carbon",
+            "Light",
+            "Dark"
+        ],
+        "mainScreen": {
+            "wallpaper": "Img/Wallpaper.png",
+            "title": {
+                "bg": "#000000",
+                "fg": "#ffffff"
+            }
+        },
+        "postBtn": {
+            "text": "[fa-plus]",
+            "fg": "#ffffff",
+            "bgNormal": "#3744db",
+            "bgPressed": "#323dc3"
+        },
+        "commBtn": {
+            "text": "[fa-pencil]",
+            "fg": "#ffffff",
+            "bgNormal": "#ff0000",
+            "bgPressed": "#dd0000"
+        }
+    }
+}
